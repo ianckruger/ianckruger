@@ -5,7 +5,7 @@
 <h1 align="center"> 
   Connect with me here! 💬
 </h1>
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/ian-kruger/">
     <img height="50" src="https://github.com/user-attachments/assets/b93a635f-3c2f-4ab9-a25f-1a348365c5b6" />
   </a>&nbsp
@@ -18,19 +18,16 @@
   <a href="https://ianckruger.github.io/">
     <img height="50" src="https://github.com/user-attachments/assets/eac203dc-620c-4cef-875b-a508a641d25b" />
   </a>&nbsp
+</p>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJ1MWw5cXE1NXFxZWpxaWc2MmNxNmE1YmFhdWV4ODJkaXVwdjl0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DSxKEQoQix9hC/giphy.gif">
+</p>
+
+<div align="center" >
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianckruger&repo=DigitalCardBinder" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianckruger&layout=donut" />
+</a>
 </div>
-
-<!--
-**ianckruger/ianckruger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
