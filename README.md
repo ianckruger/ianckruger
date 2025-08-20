@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome! 😄&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!&fontSize=90" />
 </p>
 
 <h1 align="center"> 
-  Connect with me here!
+  Connect with me here! 💬
 </h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/ian-kruger/">
