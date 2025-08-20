@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <p  align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=Welcome!&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=Welcome!&fontSize=90" />
 </p>
 
 <!--
