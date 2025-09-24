@@ -31,4 +31,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianckruger&layout=donut" />
 </a>
 </div>
-![Projects](https://github-repo-groups-euh8nqw0r-iankruger2-2555s-projects.vercel.app/api/group?title=Projects&repos=ianckruger/Simple-Blackjack-Game,ianckruger/DigitalCardBinder)
+
