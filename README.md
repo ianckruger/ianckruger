@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> 
-  Connect with me here! 💬
+  Connect with me here!
 </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/ian-kruger/">
